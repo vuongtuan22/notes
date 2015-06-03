@@ -1,0 +1,2 @@
+1428336862
+a:2:{s:7:"note_id";a:6:{s:4:"type";s:10:"biginteger";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:20;s:8:"unsigned";b:0;s:3:"key";s:7:"primary";}s:11:"category_id";a:6:{s:4:"type";s:10:"biginteger";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:20;s:8:"unsigned";b:0;s:3:"key";s:7:"primary";}}
